@@ -1,0 +1,10 @@
+/js/lib/r1.js
+/js/lib/react.min.js
+/js/lib/r2.js
+/js/lib/react-dom.min.js
+
+/js/vendorx.js
+/js/ex.js
+
+/css/ex.css
+*.css
